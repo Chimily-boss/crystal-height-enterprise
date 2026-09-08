@@ -1094,7 +1094,7 @@ function App() {
                     <a
                       href="tel:+2348012345678"
                     >
-                      +234 801 234 5678
+                      +2348030424116
                     </a>
                   </div>
 
@@ -1421,7 +1421,7 @@ function App() {
 
             <a href="tel:+2348012345678">
               <FaPhone />
-              +234 801 234 5678
+              +2348030424116
             </a>
 
             <a href="mailto:info@crystalheightenterprise.com">
